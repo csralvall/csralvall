@@ -2,14 +2,6 @@
 ---
 A Fullstack Developer :man_technologist: project in continuous delivery :construction_worker:.
 
-### :gear: Git Analytics
-<p align="center">
-  <a href="https://github.com/csralvall/csralvall">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=csralvall&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=csralvall&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
 ### Roadmap                                                                                                 
 🚀 20?? Senior Fullstack Developer Super Sayajin                                                                            
 🔜 2022 Bachelor's Degree in Computer Science, UNC-FAMAF                                                              
@@ -48,6 +40,14 @@ Next technologies to tackle.
 
 ![Node.js](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node.js)
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)
+
+### :gear: Git Analytics
+<p align="center">
+  <a href="https://github.com/csralvall/csralvall">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=csralvall&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=csralvall&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
 <!--
 ### Releases 
