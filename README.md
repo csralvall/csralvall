@@ -11,11 +11,11 @@ A Fullstack Developer :man_technologist: project in continuous delivery :constru
 My most used technologies and capabilities (always learning them).  
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)
+![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=%27flat%27&logo=numpy)
 ![Scipy](https://img.shields.io/badge/-Scipy-05122A?style=flat&logo=scipy)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)
 ![Vim](https://img.shields.io/badge/-Vim-05122A?style=flat&logo=vim)
-![Tmux](https://img.shields.io/badge/-Tmux-05122A?style=flat&logo=tmux)
+![Tmux](https://img.shields.io/badge/-Tmux-05122A?style=%27flat%27&logo=tmux)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)
 
