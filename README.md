@@ -38,7 +38,7 @@ Things that I've been learning but I'm not using right now.
 ### Backlog
 Next technologies to tackle.
 
-![Node.js](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node.js)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node-dot-js)
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)
 
 ### :gear: Git Analytics
