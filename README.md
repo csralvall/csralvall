@@ -4,8 +4,8 @@ A Fullstack Developer :man_technologist: project in continuous delivery :constru
 
 ### Roadmap                                                                                                 
 🚀 20?? Senior Super Sayajin Fullstack Developer                                                                        
-🔜 2022 Bachelor's Degree in Computer Science, UNC-FAMAF                                                              
-✔️ 2020 Associate's Degree in Computer Science, UNC-FAMAF
+🔜 2022 Bachelor's Degree in Computer Science                                                        
+✔️ 2020 Associate's Degree in Computer Science
 
 ###  Latest Stable Version 🔭                                                                                  
 My most used technologies and capabilities (always learning them).  
