@@ -4,8 +4,8 @@ A Developer :man_technologist: project in continuous delivery :construction_work
 
 ### Roadmap                                                                                                 
 🚀 20?? Full time ₿ developer                                                                        
-🔜 2022 Bachelor's Degree in Computer Science                                                        
-✔️ 2020 Associate's Degree in Computer Science
+🔜 2022 Licenciado (~Master's Degree), Computer Science                                                        
+✔️ 2020 Analista (~Bachelor's Degree), Computer Science
 
 #### LTS version                                                                                 
 > My most used tools.  
@@ -17,33 +17,35 @@ A Developer :man_technologist: project in continuous delivery :construction_work
 
 #### (main) $
 
-> Currently developing mostly in 
+> Currently developing mostly with 
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=%27flat%27&logo=numpy)
-![Scipy](https://img.shields.io/badge/-Scipy-05122A?style=flat&logo=scipy)
-![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)
+![Docker](https://img.shields.io/badge/docker-05122A?style=flat&logo=docker)
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=nodedotjs)
+![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-Html-05122A?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-Css-05122A?style=flat&logo=css3)
 
 #### (develop) $
 
-> New things that I'm learning now.
+> New things that I'm learning now
 
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)
 
 
 #### Inactive branches
-> Things that I have a taste of.
+> Things that I have a taste of
 
-![Docker](https://img.shields.io/badge/docker-05122A?style=flat&logo=docker)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-Html-05122A?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-Css-05122A?style=flat&logo=css3)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
 ![Scala](https://img.shields.io/badge/-Scala-05122A?style=flat&logo=scala)
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
 ![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)
 ![Markdown](https://img.shields.io/badge/Markdown-05122A?style=flat&logo=markdown)
+![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=%27flat%27&logo=numpy)
+![Scipy](https://img.shields.io/badge/-Scipy-05122A?style=flat&logo=scipy)
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)
 
 #### :gear: Git Analytics
 <p align="left">
